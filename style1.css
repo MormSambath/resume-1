@@ -1,0 +1,23 @@
+html{
+    background:black;
+}
+h1{
+    text-align:center;
+    color:white;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+    color: white;
+    font-family: "Libre Baskerville", serif;    
+}
+
+.sambath-image {
+    border: 5px solid white;
+    width: 100%;
+}
+p {
+    text-align: center;
+    color: white;
+}
